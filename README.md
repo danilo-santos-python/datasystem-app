@@ -8,10 +8,14 @@
 > **DataSystem App** é um aplicativo de gerenciamento de estudantes desenvolvido em Python, utilizando **PyQt6** e integrado a um banco de dados **SQLite (.db)**.  
 > O sistema permite **cadastrar, visualizar, editar e remover** estudantes por meio de uma interface gráfica clara e intuitiva, estruturada com **Programação Orientada a Objetos (OOP)**.
 
+---
+
 ## 🧠 Sobre o projeto
 
 O **DataSystem App** foi criado com o propósito de simplificar a gestão de informações estudantis.  
 A aplicação oferece uma GUI construída em **PyQt6**, conectada a um banco de dados local (`database.db`), onde todas as operações CRUD são realizadas com segurança e rapidez.
+
+---
 
 ## 🧩 Estrutura do projeto
 
@@ -24,6 +28,8 @@ datasystem-app/
 ├── LICENSE           # Licença MIT
 └── README.md         # Documentação do projeto
 ```
+
+---
 
 ## ⚙️ Instalação e execução
 
@@ -39,6 +45,8 @@ pip install pyqt6
 ### 4. Execute o aplicativo
 python main.py
 
+---
+
 ## 🔧 Funcionalidades principais
 
 - Cadastrar novos estudantes  
@@ -48,11 +56,22 @@ python main.py
 - Banco de dados SQLite externalizado  
 - Arquitetura em OOP  
 
+---
+
+## 📜 Licença
+
+Distribuído sob a **Licença MIT**.
+
+Este projeto é open source e pode ser utilizado livremente para fins educacionais e de aprendizado.
+
+---
+
 ## 👨‍💻 Autor
 
 **Danilo Santos**  
-🐙 [GitHub](https://github.com/danilo-santos-python)  
-🌐 [Repositório do Projeto](https://github.com/danilo-santos-python/datasystem-app.git)
+🐙 GitHub: https://github.com/danilo-santos-python  
+🌐 Repositório: https://github.com/danilo-santos-python/datasystem-app
+
 
 ---
 
