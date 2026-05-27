@@ -10,6 +10,14 @@
 
 ---
 
+## 📷 Preview
+
+<p align="center">
+  <img src="preview.png" width="700">
+</p>
+
+---
+
 ## 🧠 Sobre o projeto
 
 O **DataSystem App** foi criado com o propósito de simplificar a gestão de informações estudantis.  
