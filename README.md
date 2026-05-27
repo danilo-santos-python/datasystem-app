@@ -1,9 +1,9 @@
 # 🎓 DataSystem App — Sistema de Gerenciamento de Estudantes (PyQt6 + SQLite)
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Python](https://img.shields.io/badge/python-3.13-blue)
+![UI](https://img.shields.io/badge/UI-PyQt6-9cf)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-em_aperfeiçoamento-yellow)
-![Interface](https://img.shields.io/badge/UI-PyQt6-9cf)
 
 > **DataSystem App** é um aplicativo de gerenciamento de estudantes desenvolvido em Python, utilizando **PyQt6** e integrado a um banco de dados **SQLite (.db)**.  
 > O sistema permite **cadastrar, visualizar, editar e remover** estudantes por meio de uma interface gráfica clara e intuitiva, estruturada com **Programação Orientada a Objetos (OOP)**.
