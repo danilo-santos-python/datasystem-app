@@ -33,6 +33,7 @@ datasystem-app/
 ├── database.db       # Banco de dados externo (SQLite)
 ├── main.py           # Arquivo principal da aplicação (PyQt6 + OOP)
 ├── preview.png       # Imagem do app aberto
+├── requirements.txt  # Dependências do projeto
 ├── LICENSE           # Licença MIT
 └── README.md         # Documentação do projeto
 ```
