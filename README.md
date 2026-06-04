@@ -43,7 +43,7 @@ datasystem-app/
 ## ⚙️ Instalação e execução
 
 ### 1. Clone o repositório
-git clone https://github.com/danilo-santos-python/datasystem-app.git
+git clone https://github.com/danilo-santosdev/datasystem-app.git
 
 ### 2. Crie um ambiente virtual (opcional)
 python -m venv venv
@@ -78,8 +78,8 @@ Este projeto é open source e pode ser utilizado livremente para fins educaciona
 ## 👨‍💻 Autor
 
 **Danilo Santos**  
-🐙 GitHub: https://github.com/danilo-santos-python  
-🌐 Repositório: https://github.com/danilo-santos-python/datasystem-app
+🐙 GitHub: https://github.com/danilo-santosdev  
+🌐 Repositório: https://github.com/danilo-santosdev/datasystem-app
 
 
 ---
