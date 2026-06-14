@@ -104,10 +104,11 @@ class AboutDialog(QMessageBox):
         self.setWindowTitle("About")
         info = (
             "Sistema para Dados\n\n"
-            "Desenvolvido por: Danilo dos Santos Soares\n"
-            "Telefone: (11) 9 4138-3504\n"
-            "Interface: PyQt6\n\n"
-            "© 2025 - Todos os direitos reservados."
+            "Gerenciamento para Estudantes\n"
+            "Interface: Python + PyQt6 + SQLite\n"
+            "Desenvolvedor: Danilo dos Santos Soares\n"
+            "Contato: (11) 9 4138-3504\n\n"
+            "© 2026 - Todos os direitos reservados."
         )
         self.setText(info)
 
